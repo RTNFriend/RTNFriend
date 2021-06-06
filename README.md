@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RTNFriend
-- 💞️ I would be interested in collaborating on precise GNSS RTK, Coordinate Transformations and related things programming, let me know if you need a geodetic surveyor and a programmer expertize. I do have an experience in both fields.
+- 💞️ I would be interested in collaborating on precise GNSS RTK, Coordinate Transformations and related things programming, let me know if you need a geodetic surveyor and a programmer expertize. I do have equal experience in both fields.
 - 📫 I can be reached at rtnfriend@gmail.com
 
 <!---
